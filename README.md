@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Gaur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Wedoodle, Social-Media-Platform**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Typescript, Angular**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on [Social-Media-Platform](https://github.com/gaur-abhi524/Social-Media-Platform)
 
